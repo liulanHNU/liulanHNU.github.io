@@ -1,3 +1,13 @@
+---
+title:  linux下使用GCC编译C语言
+date: 2020-12-22 23:31:06
+categories:
+- GCC
+tags:
+- GCC
+---
+
+
 # 1.GCC
 
 ## 1.1 查看GCC版本
